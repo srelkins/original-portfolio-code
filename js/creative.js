@@ -63,7 +63,7 @@
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
 
-    figcaption: 'this is a test',
+    text: 'I dont know what i am doing',
     
     gallery: {
       enabled: true,
