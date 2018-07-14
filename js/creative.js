@@ -62,6 +62,9 @@
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
+
+    figcaption: 'this is a test',
+    
     gallery: {
       enabled: true,
       navigateByImgClick: true,
