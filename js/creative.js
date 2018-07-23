@@ -61,10 +61,7 @@
     delegate: 'a',
     type: 'image',
     tLoading: 'Loading image #%curr%...',
-    mainClass: 'mfp-img-mobile',
-
-    text: 'I dont know what i am doing',
-    
+    mainClass: 'mfp-img-mobile',    
     gallery: {
       enabled: true,
       navigateByImgClick: true,
