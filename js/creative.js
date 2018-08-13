@@ -68,7 +68,10 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+      src: 'data-project-link',
+      titleSrc: 'title'
+      verticalFit: true
+      // tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
   });
 
